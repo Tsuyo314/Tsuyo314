@@ -3,7 +3,6 @@
 ### Interested in:
 - Homomorphic encryption
 - Cybersecurity
-- App development
 - FPGA
 - And more
 <!--
